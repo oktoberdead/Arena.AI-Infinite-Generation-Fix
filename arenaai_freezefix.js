@@ -1,8 +1,8 @@
 /*
-arena_ai_infgenfix.js
+arenaai_freezefix.js
 fixes frozen chat input on arena.ai
 usage: paste in console or load via:
-fetch('https://raw.githubusercontent.com/username/repo/main/arena_ai_infgenfix.js').then(r=>r.text()).then(eval)
+fetch('https://raw.githubusercontent.com/username/repo/main/arenaai_freezefix.js').then(r=>r.text()).then(eval)
 */
 
 (function() {
