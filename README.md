@@ -1,3 +1,3 @@
 (LM)Arena.AI infinite response generation fix V1.
 Just paste the following link (fetching the raw arenaai_freezefix.js contents) into DevTools (F12) console, type something in the chat prompt and try pressing the Submit button: 
-*```fetch('https://raw.githubusercontent.com/username/repo/main/arenaai_freezefix.js').then(r=>r.text()).then(eval)```*
+*```fetch('https://raw.githubusercontent.com/oktoberdead/repo/main/arenaai_freezefix.js').then(r=>r.text()).then(eval)```*
